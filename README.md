@@ -11,7 +11,7 @@
 -   Box Shadow: (https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
 -   Placeholder: (https://developer.mozilla.org/en-US/docs/Web/CSS/::placeholder)
 
-git config --global user.name "Your Name"
+git config --global user.name "Your Name"<br />
 git config --global user.email "your_email@example.com"
 
 ---
